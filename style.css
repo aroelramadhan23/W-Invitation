@@ -482,7 +482,7 @@ section {
     padding: 5px 10px;
   }
 }
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .hero-guest {
     font-size: 1.2rem;
   }
@@ -593,3 +593,4 @@ section {
     margin-top: 0.5rem;
   }
 }
+
