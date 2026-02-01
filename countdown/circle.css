@@ -82,12 +82,12 @@
 
 @media (max-width: 500px) {
   .simply-countdown-circle {
-    gap: 1rem;
+    gap: 0.8rem;
   }
   .simply-countdown-circle > .simply-section {
-    width: 40px;
-    height: 40px;
-    padding: 35px;
+    width: 30px;
+    height: 30px;
+    padding: 32px;
   }
   .simply-countdown-circle .simply-amount {
     font-size: 1.5rem;
