@@ -649,7 +649,7 @@ section {
     margin-top: 0.5rem;
   }
   .copyright {
-    margin-top: -6rem;
+    margin-top: -4rem;
     height: 40px;
   }
   .sign,
@@ -658,5 +658,6 @@ section {
     font-size: 0.8rem;
   }
 }
+
 
 
