@@ -525,7 +525,7 @@ section {
     padding: 5px 10px;
   }
 }
-@media (max-width: 400px) {
+@media (max-width: 600px) {
   .snap-container {
     scroll-snap-type: y initial;
   }
@@ -662,3 +662,4 @@ section {
     font-size: 0.8rem;
   }
 }
+
